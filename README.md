@@ -12,4 +12,4 @@ El objetivo es utilizar técnicas de aprendizaje automático para hacer predicci
 - Realizar una evaluación diagnóstica
 - Comparar el desempeño de los dos modelos
 
-Repositorio utilizado: https://archive.ics.uci.edu/dataset/189/parkinsons+telemonitoring
+Dataset utilizado: https://archive.ics.uci.edu/dataset/189/parkinsons+telemonitoring
